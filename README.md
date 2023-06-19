@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there, Alan Perdomo here. 
+
+[![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-perdomo-54466818/)
+
+![Alan Perdomo's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanPerdomo&show_icons=true&theme=highcontrast)
+![Alan Perdomo's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanPerdomo&theme=highcontrast)
+
+![snake gif](https://github.com/AlanPerdomo/AlanPerdomo/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **AlanPerdomo/AlanPerdomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
