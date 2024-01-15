@@ -1,24 +1,20 @@
-## Hi there, Alan Perdomo here. 
+### 👋 Olá, eu sou Alan Perdomo!
 
-[![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-perdomo-54466818/)
+🚀 Atualmente focado em estudar Flutter e aprimorar minhas habilidades em desenvolvimento de aplicativos móveis.
 
-![Alan Perdomo's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanPerdomo&show_icons=true&theme=dark)
-![Alan Perdomo's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanPerdomo&show_icons=true&theme=dark)
+💻 Tenho experiência em:
+   - JavaScript (Node.js)
+   - React (Web)
+   - React Native (Mobile)
+   - Programação Estruturada (C/C++)
+   - Programação Orientada a Objetos (POO)
 
-![](https://komarev.com/ghpvc/?username=AlanPerdomo)
+🐍 Já tive contato com Python, especialmente no contexto de Big Data.
 
+📘 Cursando Análise e Desenvolvimento de Sistemas para aprofundar meu conhecimento em programação e design de software.
 
-<!--
-**AlanPerdomo/AlanPerdomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Sempre em busca de aprendizado e crescimento na área de desenvolvimento de software.
 
-Here are some ideas to get you started:
+📫 Entre em contato: [alanperdomo.ap@gmail.com](mailto:alanperdomo.ap@gmail.com) | [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-perdomo-54466818/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=AlanPerdomo&style=plastic)
