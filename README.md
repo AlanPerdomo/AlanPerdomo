@@ -1,6 +1,6 @@
 ### 👋 Olá, eu sou Alan Perdomo!!
 
-🚀 Atualmente focado em estudar Flutter e aprimorar minhas habilidades em desenvolvimento de aplicativos móveis.
+🚀 Atualmente estudando Flutter para desenvolvimento de aplicativos mobile.
 
 💻 Tenho experiência em:
    - JavaScript (Node.js)
