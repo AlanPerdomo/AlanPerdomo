@@ -1,13 +1,14 @@
 ### 👋 Olá, eu sou Alan Perdomo!!
 
-🚀 Atualmente estudando Flutter para desenvolvimento de aplicativos mobile.
+🚀 Atualmente desenvolvendo um bot multifunção para Discord. 
 
 💻 Tenho experiência em:
-   - JavaScript (Node.js)
+   - JavaScript/TypeScript (Node.js)
    - React (Web)
    - React Native (Mobile)
    - Programação Estruturada (C/C++)
    - Programação Orientada a Objetos (POO)
+   - Flutter
 
 🐍 Já tive contato com Python, especialmente no contexto de Big Data.
 
