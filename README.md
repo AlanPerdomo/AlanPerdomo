@@ -21,7 +21,7 @@
   - MySQL, PostgreSQL, MongoDB
 
 - **Outras Ferramentas:**
-  - Git/GitHub, Docker, RESTful APIs, GraphQL
+  - Git/GitHub, RESTful APIs, GraphQL
 
 ---
 
@@ -91,7 +91,7 @@ _Conclusão: Maio 2021_
 
 ## 🏆 **Atividades Complementares**
 
-- **Gerenciamento Administrativo do Restaurante Veg Lotus no Ifood**  
+- **Gerenciamento Administrativo do Restaurante Veglótus no Ifood**  
   _2018 - Atualmente_  
   Organização, logística, cotação e gerenciamento de pedidos.
 
