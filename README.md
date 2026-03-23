@@ -66,7 +66,7 @@ _Dezembro 2022 - Julho 2023_
 
 ### **Análise e Desenvolvimento de Sistemas**  
 **Universidade Estácio de Sá**  
-_Fevereiro 2022 - Atualmente_  
+_Fevereiro 2022 - Fevereiro 2026_  
 
 ### **Geografia**  
 **Universidade Federal Fluminense (UFF)**  
