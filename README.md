@@ -76,6 +76,7 @@ _Conclusão: Maio 2021_
 
 ## 📜 **Certificações**
 
+- **AWS Academy Graduate - Cloud Foundations - Training Badge** (AWS)
 - **Alteryx: Self-Service Analytics In Your Hands** (Udemy)
 - **Aprenda Flutter e Desenvolva Apps Para Android e IOS** (Udemy – Cod3r Cursos online)
 - **Programação para Dispositivos Móveis** (Estácio)
